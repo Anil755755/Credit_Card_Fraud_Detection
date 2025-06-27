@@ -6,10 +6,8 @@ This project is an end-to-end machine learning system that detects fraudulent cr
 ---
 
 ## 📌 Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Screenshots](#screenshots)
@@ -19,9 +17,6 @@ This project is an end-to-end machine learning system that detects fraudulent cr
 
 ---
 
-## 🚀 Demo
-🔗 [Live Demo (optional if hosted)](https://your-live-app-link.com)  
-📹 Or insert a GIF or video here showing the UI and prediction.
 
 ---
 
@@ -51,11 +46,7 @@ This project is an end-to-end machine learning system that detects fraudulent cr
 
 ---
 
-## 📂 Dataset
 
-- Dataset: [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-- 284,807 transactions with 492 frauds
-- Features are PCA-anonymized (`V1` to `V28`), plus `Time`, `Amount`, and `Class`
 
 ---
 
